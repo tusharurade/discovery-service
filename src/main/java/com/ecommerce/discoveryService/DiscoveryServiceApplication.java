@@ -1,4 +1,4 @@
-package com.example.discovery_service;
+package com.ecommerce.discoveryService;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

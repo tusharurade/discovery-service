@@ -1,3 +1,12 @@
 spring:
   application:
-    name: discovery-service
+    name: discoveryService
+  cloud:
+    config:
+      enabled: false
+eureka:
+  client:
+    fetch-registry: false
+    register-with-eureka: false
+server:
+  port: 8761
