@@ -1,9 +1,8 @@
 spring:
   application:
-    name: discoveryService
-  cloud:
-    config:
-      enabled: false
+    name: discovery-service
+  config:
+    import: optional:configserver:http://localhost:8888
 eureka:
   client:
     fetch-registry: false
