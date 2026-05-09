@@ -8,7 +8,7 @@
         <version>3.2.3</version>
 	</parent>
 	<groupId>com.ecommerce</groupId>
-	<artifactId>discoveryService</artifactId>
+	<artifactId>discovery-service</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>
